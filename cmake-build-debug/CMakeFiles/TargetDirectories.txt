@@ -1,0 +1,3 @@
+D:/C learning/3DVectors/cmake-build-debug/CMakeFiles/3DVectors.dir
+D:/C learning/3DVectors/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C learning/3DVectors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
